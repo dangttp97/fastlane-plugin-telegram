@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    fastlane-plugin-new_telegram (1.0.0)
+    fastlane-plugin-new_telegram (1.0.1)
 
 GEM
   remote: https://rubygems.org/
