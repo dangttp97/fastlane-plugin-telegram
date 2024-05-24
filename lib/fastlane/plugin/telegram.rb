@@ -1,4 +1,4 @@
-require 'fastlane/plugin/telegram/version'
+require 'fastlane/plugin/new_telegram/version'
 
 module Fastlane
   module Telegram

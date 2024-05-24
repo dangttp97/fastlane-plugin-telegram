@@ -5,7 +5,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'fastlane/plugin/telegram/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'fastlane-plugin-new-telegram'
+  spec.name          = 'fastlane-plugin-new_telegram'
   spec.version       = Fastlane::Telegram::VERSION
   spec.author        = 'Tran Thanh Phuong Dang'
   spec.email         = 'phuongdang012@gmail.com'

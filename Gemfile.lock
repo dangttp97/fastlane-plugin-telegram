@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    fastlane-plugin-new-telegram (1.0.0)
+    fastlane-plugin-new_telegram (1.0.0)
 
 GEM
   remote: https://rubygems.org/
@@ -270,7 +270,7 @@ PLATFORMS
 DEPENDENCIES
   bundler
   fastlane (>= 2.53.1)
-  fastlane-plugin-new-telegram!
+  fastlane-plugin-new_telegram!
   pry
   rake
   rspec
