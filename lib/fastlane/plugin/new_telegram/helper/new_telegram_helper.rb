@@ -1,6 +1,6 @@
 module Fastlane
   module Helper
-    class TelegramHelper
+    class NewTelegramHelper
       # class methods that you define here become available in your action
       # as `Helper::TelegramHelper.your_method`
       #

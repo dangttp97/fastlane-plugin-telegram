@@ -1,9 +1,9 @@
 lane :test do
-  telegram
+  new_telegram
 end
 
 lane :proxied do 
-	telegram(
+	new_telegram(
       token: "your_token",
       chat_id: "your_chat_id",
       text: "Hello World! (sent trough proxy)",

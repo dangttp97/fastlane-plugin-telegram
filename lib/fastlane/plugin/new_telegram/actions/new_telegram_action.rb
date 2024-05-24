@@ -1,6 +1,6 @@
 module Fastlane
   module Actions
-    class TelegramAction < Action
+    class NewTelegramAction < Action
       def self.run(params)
         UI.message("Sending message to a telegram channel")
 
